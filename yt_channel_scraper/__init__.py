@@ -1,0 +1,1 @@
+from yt_channel_scraper.yt_channel_scraper import YoutubeScraper
