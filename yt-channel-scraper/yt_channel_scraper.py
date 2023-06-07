@@ -4,7 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 
 
-class FetchYoutube:
+class YoutubeScraper:
     def __init__(self, url: str):
         try:
             self.channel_id = self.get_channel_id(url)
