@@ -7,7 +7,7 @@ with open(readme_file, encoding="utf-8") as f:
 
 setup(
     name="yt-channel-scraper",
-    version="0.0.5",
+    version="0.1.0",
     description="Fetch channel_id, videos, transcript from a youtube channel",
     long_description=readme_content,
     long_description_content_type="text/markdown",
