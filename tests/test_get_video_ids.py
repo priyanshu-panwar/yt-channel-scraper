@@ -1,5 +1,5 @@
 import pytest
-from ..yt_channel_scraper.yt_channel_scraper import YoutubeScraper
+from yt_channel_scraper import YoutubeScraper
 
 
 def test_get_video_ids():
