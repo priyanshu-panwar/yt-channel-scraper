@@ -1,4 +1,4 @@
-# yt-scraper
+# yt-channel-scraper
 Helps you fetch the following things of a youtube channel:
 - channel_id
 - videos (video_ids)
