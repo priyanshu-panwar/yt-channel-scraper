@@ -1,4 +1,6 @@
 # yt-channel-scraper
+[![📦️Upload PyPi Package](https://github.com/priyanshu-panwar/yt-channel-scraper/actions/workflows/python-publish.yml/badge.svg)](https://github.com/priyanshu-panwar/yt-channel-scraper/actions/workflows/python-publish.yml)
+
 Helps you fetch the following things of a youtube channel:
 - channel_id
 - videos (video_ids)
