@@ -7,7 +7,7 @@ with open(readme_file, encoding="utf-8") as f:
 
 setup(
     name="yt-channel-scraper",
-    version="0.1.0",
+    version="0.1.1",
     description="All in one Youtube Solution for python. Scrap, Fetch, Download anything from a Youtube Channel, Video.",
     long_description=readme_content,
     long_description_content_type="text/markdown",
