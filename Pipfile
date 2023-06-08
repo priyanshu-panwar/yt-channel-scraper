@@ -11,6 +11,7 @@ beautifulsoup4 = "*"
 twine = "*"
 pytest = "*"
 flake8 = "*"
+pytube = "*"
 
 [dev-packages]
 
